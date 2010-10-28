@@ -1,4 +1,4 @@
-! HTTPS Everywhere user-contributed rules
+# HTTPS Everywhere user-contributed rules
 
 Upstream: `git://git.torproject.org/schoen/https-everywhere.git`
 
